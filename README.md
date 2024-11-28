@@ -9,6 +9,27 @@
 </p>
 
 <p align="center">
+    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Tangc03&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="activity graph" title="activity graph" />
+</p>
+<p align="center">
+    <!-- https://github.com/ryo-ma/github-profile-trophy -->
+    <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
+    <img width="800" src="https://github-profile-trophy.vercel.app/?username=Tangc03&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="profile trophy" title="profile trophy" />
+</p>
+<p align="center">
+    <!-- https://github.com/LelouchFR/skill-icons -->
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,html,md,latex&titles=true" alt="skill icons" title="skill icons">
+</p>
+<p align="center">
+    <!-- https://github.com/badges/shields --> 
+    <a href="https://github.com/Tangc03"><img src="https://img.shields.io/badge/GitHub-Tangc03-blue?logo=github" alt="GitHub" title="GitHub" /></a>
+    <a href="https://wakatime.com/@Xiaokang2022"><img src="https://wakatime.com/badge/user/8e3fe197-383c-4b9c-bc73-4f873d0d8d73.svg" alt="wakatime" title="wakatime" /></a>
+    <!-- https://github.com/antonkomarev/github-profile-views-counter -->
+    <a href="https://github.com/Tangc03"><img src="https://komarev.com/ghpvc/?username=Tangc03&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
+</p>
+
+<p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
     <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=Tangc03&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" alt="profile stats" title="profile stats" />
