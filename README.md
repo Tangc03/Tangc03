@@ -17,10 +17,11 @@
     <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
     <img width="800" src="https://github-profile-trophy.vercel.app/?username=Tangc03&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="profile trophy" title="profile trophy" />
 </p>
-</p>
+
+<!-- </p>
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Tangc03&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-</p>
+</p> -->
 </p>
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
@@ -29,7 +30,9 @@
 <p align="center">
     <!-- https://github.com/badges/shields --> 
     <a href="https://github.com/Tangc03"><img src="https://img.shields.io/badge/GitHub-Tangc03-blue?logo=github" alt="GitHub" title="GitHub" /></a>
-    <a href="https://wakatime.com/@Tangc03"><img src="https://wakatime.com/badge/user/8e3fe197-383c-4b9c-bc73-4f873d0d8d73.svg" alt="wakatime" title="wakatime" /></a>
+    
+<!--     <a href="https://wakatime.com/@Tangc03"><img src="https://wakatime.com/badge/user/8e3fe197-383c-4b9c-bc73-4f873d0d8d73.svg" alt="wakatime" title="wakatime" /></a> -->
+
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
     <a href="https://github.com/Tangc03"><img src="https://komarev.com/ghpvc/?username=Tangc03&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
 </p>
