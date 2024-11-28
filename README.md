@@ -30,9 +30,6 @@
 <p align="center">
     <!-- https://github.com/badges/shields --> 
     <a href="https://github.com/Tangc03"><img src="https://img.shields.io/badge/GitHub-Tangc03-blue?logo=github" alt="GitHub" title="GitHub" /></a>
-    
-<!--     <a href="https://wakatime.com/@Tangc03"><img src="https://wakatime.com/badge/user/8e3fe197-383c-4b9c-bc73-4f873d0d8d73.svg" alt="wakatime" title="wakatime" /></a> -->
-
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
     <a href="https://github.com/Tangc03"><img src="https://komarev.com/ghpvc/?username=Tangc03&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
 </p>
