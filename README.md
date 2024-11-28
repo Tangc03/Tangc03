@@ -1,4 +1,7 @@
 ## Hi there 👋
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text={Here is Tangc03}&fontSize=90&fontAlign=50&fontAlignY=30&desc={Welcome to my Github Page}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+</p>
 
 <!--
 **Tangc03/TangC03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
