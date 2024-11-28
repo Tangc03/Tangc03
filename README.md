@@ -19,7 +19,7 @@
 </p>
 </p>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username={YOUR_USERNAME}&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Tangc03&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 </p>
 </p>
 <p align="center">
