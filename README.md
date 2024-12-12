@@ -1,9 +1,11 @@
 <p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-    <img width="800" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;欢迎来到我的 GitHub 主页！" />
+    <img width="800" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=22&pause=100&duration=3000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;欢迎来到我的 GitHub 主页！" />
 </p>
 
 ![](https://komarev.com/ghpvc/?username=tangc03)
+
+**Hi there, I'm Tangc03.**
 
 :tangerine: **About Me | 关于我**
 
