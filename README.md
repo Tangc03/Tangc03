@@ -11,7 +11,7 @@
 
 - A third-year undergraduate student
 - :mailbox: E-mail: tc_2003@stu.pku.edu.cn
-- :custard: PersonalWebsite: [Chao Tang|唐超](https://tangc03.github.io)
+- :custard: Personal Website: [Chao Tang|唐超](https://tangc03.github.io)
 
 :tea: **Skills | 技能**
 
