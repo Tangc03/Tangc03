@@ -23,7 +23,7 @@
 ![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-<img src="https://github-readme-stats-tangc03.vercel.app/api/top-langs/?username=tangc03&layout=compact" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tangc03)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Tangc03/TangC03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
