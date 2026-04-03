@@ -10,7 +10,7 @@
 
 :tangerine: **About Me | 关于我**
 
-- A third-year undergraduate student
+- A final-year undergraduate student
 - :mailbox: E-mail: tc_2003@stu.pku.edu.cn
 - :custard: Personal Website: [Chao Tang|唐超](https://tangc03.github.io)
 
